@@ -1,4 +1,4 @@
-# Query-a-Digital-Music-Store-Database-Advanced_Data_Analysis
+# Query A Digital Music Store Database For Advanced Data Analysis nanodegree from Udacity
 
 # Introduction:
 In this project, we will query the Chinook Database. The Chinook Database holds information about a music store. For this project, we will answer 4 queries to help the Chinook team understand the media in their store, their customers and employees, and their invoice information.
