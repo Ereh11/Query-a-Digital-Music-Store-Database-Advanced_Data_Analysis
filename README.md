@@ -26,3 +26,4 @@ We want to help the Chinook team understand the media in their store, their cust
 1. I try to answer to many non essential questions that may be not vital to the project requirements but i did it for practise. 
 2. These questions and answers in folder **Extra Questions**
 3. The **QueryVisulaization file** has my code for visualizing the four quries by python and it library Matplotlib. 
+4. In **CSV Queries** there are the CSVs for the four queries.
