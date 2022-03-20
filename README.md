@@ -12,8 +12,6 @@ We want to help the Chinook team understand the media in their store, their cust
 # Key Takeaways
 - Write queries to extract data from multiple tables in a database
 - Use SQL to make data informed decisions
-# INSTRUCTIONS :
-In order to help the team at Chinook music store, you need to answer the following 4 queries
 
 # Requirement：
 
